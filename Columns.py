@@ -5,7 +5,7 @@ from threading import Lock
 #les couleur necessaire pour le jeu
 COLORS = ['gray', 'lightgreen', 'pink', 'blue', 'orange', 'purple', 'red', 'yellow', 'cyan']
 
-
+#c'est les diffenretes structure de shape utiliser dans le jeu
 class Columns():
     GAME_HEIGHT = 20
     GAME_WIDTH = 10
