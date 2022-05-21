@@ -2,6 +2,7 @@ import tkinter as tk
 import random
 from threading import Lock
 
+#les couleur necessaire pour le jeu
 COLORS = ['gray', 'lightgreen', 'pink', 'blue', 'orange', 'purple', 'red', 'yellow', 'cyan']
 
 
